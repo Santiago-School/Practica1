@@ -1,12 +1,19 @@
 
 
 #definicion de variables
+
 x = 10
+
 y = 20
+
 #variables en texto
+
 print(x)
+
 print(y)
+
 #suma de las variables en texto
+
 print(x+y)
 
 
