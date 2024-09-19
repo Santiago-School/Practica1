@@ -1,4 +1,8 @@
+print(" ")
 
+print("Santiago Carrasco : Mi practica definicion de variables y su respectiva suma")
+
+print(" ")
 
 #definicion de variables
 
@@ -17,4 +21,5 @@ print(y)
 print(x+y)
 
 
-![image](https://github.com/user-attachments/assets/21d23181-fd3e-4a05-9a8b-c9d266defa05)
+![image](https://github.com/user-attachments/assets/ab7dea92-6eb8-48cf-a73f-cde63268877b)
+
